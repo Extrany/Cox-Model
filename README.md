@@ -3,6 +3,8 @@ The course design of Computing Method, aimed to  analyzing the factors affecting
 
 ### Related Works
 
+the factor
+
 ### Refer
 
 [1] Therneau, T. M., & Grambsch, P. M. (2013). Modeling Survival Data: Extend- ing the Cox Model
